@@ -17,7 +17,7 @@
         {
             "name":"cc.orbiters",
             "releases":[
-                "https://blackorbit1.github.io/orbiters-vpm/ultipaw.0.0.1.zip"
+                "https://github.com/blackorbit1/orbiters-vpm/raw/refs/heads/main/ultipaw.0.0.1.zip"
             ]
         }
     ]
