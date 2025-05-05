@@ -13,7 +13,12 @@
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
-    "githubRepos":[
-        "blackorbit1/UltiPaw"
+    "packages":[
+        {
+            "name":"cc.orbiters",
+            "releases":[
+                "https://github.com/blackorbit1/orbiters-vpm/raw/refs/heads/main/ultipaw.0.0.1.zip"
+            ]
+        }
     ]
 }
